@@ -64,7 +64,7 @@ tl.from("#line-part1",{
       }else{
        h5timer.innerHTML = grow;
       }
-    },33);
+    },40);
   },
 });
 tl.to('.line h2',{
