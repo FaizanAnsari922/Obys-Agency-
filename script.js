@@ -64,7 +64,7 @@ tl.from("#line-part1",{
       }else{
        h5timer.innerHTML = grow;
       }
-    },40);
+    },35);
   },
 });
 tl.to('.line h2',{
@@ -76,7 +76,7 @@ tl.to('.line h2',{
 tl.to("#loader",{
   opacity:0,
   duration:0.2,
-  // delay:4
+  delay:4
 });
 
 tl.from("#page1",{
